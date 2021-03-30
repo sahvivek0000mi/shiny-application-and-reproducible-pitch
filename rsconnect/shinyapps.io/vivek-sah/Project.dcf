@@ -1,0 +1,14 @@
+name: Project
+title: Project
+username:
+account: vivek-sah
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3884783
+bundleId: 4412015
+url: https://vivek-sah.shinyapps.io/Project/
+when: 1617114955.87802
+lastSyncTime: 1617114955.87902
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: presentation-figure/unnamed-chunk-1-1.png|presentation-figure/unnamed-chunk-2-1.png|presentation-figure/unnamed-chunk-3-1.png|presentation-rpubs.html|presentation.md|presentation.Rpres
